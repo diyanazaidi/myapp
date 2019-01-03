@@ -1,1 +1,1 @@
-# myapp
+# Introduction to Git
